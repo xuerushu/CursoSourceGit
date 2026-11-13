@@ -6,3 +6,4 @@ SourceGit y Git Flow.
 ## Versiones
 
 - 1.0.0: versión inicial.
+Correccion del proyecto
